@@ -1,0 +1,2 @@
+iex -S mix
+pause
