@@ -1,0 +1,24 @@
+{
+    "add2": {
+        "module": "Test",
+        "params": {
+            "p1": "dataset1",
+            "p2": "dataset2"
+        }
+    },
+    "add3": {
+        "module": "Test",
+        "params": {
+            "p1": "dataset3",
+            "p2": "dataset4",
+            "p3": "dataset1"
+        }
+    },
+    "sub2": {
+        "module": "Utils",
+        "params": {
+            "p1": "dataset2",
+            "p2": "dataset4"
+        }
+    }
+}
